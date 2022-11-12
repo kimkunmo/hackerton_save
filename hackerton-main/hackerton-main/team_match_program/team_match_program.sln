@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "team_match_program", "team_match_program\team_match_program.csproj", "{3D894657-1A79-4C9F-AFFF-D87139387503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D894657-1A79-4C9F-AFFF-D87139387503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D894657-1A79-4C9F-AFFF-D87139387503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D894657-1A79-4C9F-AFFF-D87139387503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D894657-1A79-4C9F-AFFF-D87139387503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1481C370-4341-4B93-B6CB-09B91D2ACA1D}
+	EndGlobalSection
+EndGlobal
