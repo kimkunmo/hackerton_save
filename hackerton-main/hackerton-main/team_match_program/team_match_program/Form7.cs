@@ -14,7 +14,7 @@ namespace team_match_program
     {
         Form1.Myinfo _myinfo;
         Form1.Team _team;
-        public frmTeamManagement_admin(Form1.Myinfo myinfo, Form1.Team team)
+        public frmTeamManagement_admin(ref Form1.Myinfo myinfo, ref Form1.Team team)
         {
             _myinfo = myinfo;
             _team = team;
